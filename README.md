@@ -32,9 +32,9 @@ This repository contains experiments and results for **3D Gaussian Splatting (3D
 
 ---
 
-## 🎥 Comparison Video
+##  Comparison Video
 
-👉 Download and view:
+ Download and view:
 [comparison_test_video.mp4](comparison_test_video.mp4)
 
 ---
