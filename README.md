@@ -25,18 +25,18 @@ This repository contains experiments and results for **3D Gaussian Splatting (3D
 
 ---
 
-## 🎥 Results
+##  Results
 
 ### Comparison Video
 
-<video src="vis/comparison_test_video.mp4" controls width="600"></video>
+<video src="comparison_test_video.mp4" controls width="600"></video>
 
 ---
 
 ## 🖼️ Rendered Outputs
 
-![Point Cloud Rendering](vis/point_cloud_image.png)
-![Sparse View Rendering](vis/sparse_image.png)
+![Point Cloud Rendering](point_cloud_image.png)
+![Sparse View Rendering](sparse_image.png)
 
 ---
 
